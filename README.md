@@ -10,7 +10,6 @@ public class JoyBanglaQuize extends JFrame {
     private static final String USER = "joysarker12";
     private static final String PASS = "joy!7";
 
-    // ✅ Quiz Data
     private final String[] questions = {
             "প্রশ্ন ১: 2 + 2 কত?",
             "প্রশ্ন ২: 5 - 3 কত?",
